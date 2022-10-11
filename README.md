@@ -1,6 +1,6 @@
 # Where_Am_I_Project
 
-Project4
+
 Project - Where Am I
 
 Before experimenting with the AMCL localization parameters, the robot localization particle diverges during the movement. But after some trial and error, the robot localization particle converges and I am able to get a stable localization.
